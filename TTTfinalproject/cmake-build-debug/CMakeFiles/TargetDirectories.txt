@@ -1,0 +1,3 @@
+C:/Users/spenc/OneDrive/Desktop/CSC 121/TTTfinalproject/cmake-build-debug/CMakeFiles/TTTfinalproject.dir
+C:/Users/spenc/OneDrive/Desktop/CSC 121/TTTfinalproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/spenc/OneDrive/Desktop/CSC 121/TTTfinalproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
